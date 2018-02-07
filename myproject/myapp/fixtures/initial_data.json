@@ -1,0 +1,26 @@
+[
+  {
+    "model": "myapp.RingoProductingArea",
+    "pk": 1,
+    "fields": {
+      "pref": "青森県",
+      "ratio": 58
+    }
+  },
+  {
+    "model": "myapp.RingoProductingArea",
+    "pk": 2,
+    "fields": {
+      "pref": "長野県",
+      "ratio": 18
+    }
+  },
+  {
+    "model": "myapp.RingoProductingArea",
+    "pk": 3,
+    "fields": {
+      "pref": "山形県",
+      "ratio": 5
+    }
+  }
+]
